@@ -1,0 +1,13 @@
+NOTICE
+------
+This project includes the following third-party software:
+
+- tensorflow v2.7.0
+  Copyright (c) Google Inc., Yuan Tang <terrytangyuan@gmail.com>, Arm Ltd
+  Licensed under the Apache License 2.0.
+  The full text of the Apache License 2.0 can be found in the LICENSE file.
+
+- numpy
+  Copyright (c) 2005-2023, NumPy Developers
+  Licensed under a custom license
+  The full text of the License can be found in the LICENSE file.

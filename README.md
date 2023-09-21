@@ -1,7 +1,7 @@
 StructureAdaptionFramework: a framework for handling neuron-level and layer-level structure adaptions in
 neural networks.
 
-Copyright (C) 2023  Roman Frels, roman.frels@gmail.com
+Copyright (C) 2023  Roman Frels, roman.frels@cdi.eu
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -30,6 +30,11 @@ The structure adaption framework can:
 For further details take a look at the documentation, as well as the provided examples.
 
 For other licensing options please do approach me!
+
+The foundations for this work where laid in my master's thesis and
+I would like to thank my former master's thesis supervisor Sascha Hauck, 
+whose support during the thesis was outstanding.
+Cheers Sascha!
 
 ## Setup
 Clone this repository and set up a virtual environment with python3.9. 
